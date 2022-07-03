@@ -8,8 +8,8 @@ import random
 today = dt.datetime.now()
 today_tuple = (today.month, today.day)
 
-my_email = "malharpatel2u@gmail.com"
-password = "Anandi21"
+my_email = "YOUR EMAIL"
+password = "YOUR PASSWORD"
 
 data = pandas.read_csv("birthdays.csv")
 
